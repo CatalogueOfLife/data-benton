@@ -32,8 +32,8 @@ Chordata [phylum]
               Symmoriidae [family]
               Falcatidae [family]
               Stethacanthidae [family]
-          †Eugeneodontiformes [order]
-          †Petalodontiformes [order]
+          †Eugeneodontiformes [order] # sedis mutabilis
+          †Petalodontiformes [order] # sedis mutabilis
           Euselachii [infraclass]
             †Xenacanthiformes [order]
             †Ctenacanthiformes [order]
@@ -454,7 +454,7 @@ Chordata [phylum]
                         †Araeoscelidia [order]
                         †Weigeltisauridae [family]
                         †Younginiformes [order]
-                        †Ichthyosauria sedis mutabilis [infraclass]
+                        †Ichthyosauria [infraclass] # sedis mutabilis
                         Lepidosauromorpha [infraclass]
                           †Sauropterygia [superorder]
                             Placodontia [order]
@@ -492,10 +492,10 @@ Chordata [phylum]
                             †Euparkeriidae [family]
                             Crurotarsi [subdivision]
                               †Phytosauridae [family]
-                              †Ornithosuchidae sedis mutabilis [family]
-                              †Stagonolepididae sedis mutabilis [family]
-                              †Prestosuchidae sedis mutabilis [family]
-                              †Poposauridae sedis mutabilis [family]
+                              †Ornithosuchidae [family] # sedis mutabilis
+                              †Stagonolepididae [family] # sedis mutabilis
+                              †Prestosuchidae [family] # sedis mutabilis
+                              †Poposauridae [family] # sedis mutabilis
                               Crocodylomorpha [superorder]
                                 †Saltoposuchidae [family]
                                 †Sphenosuchidae [family]
