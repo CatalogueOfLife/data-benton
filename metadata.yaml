@@ -56,9 +56,6 @@ license: CC-BY-4.0
 # Link to a website for the dataset
 url: https://github.com/CatalogueOfLife/data-benton
 
-# URL to large logo image
-logo: https://media.wiley.com/product_data/coverImage300/55/11184075/1118407555.jpg
-
 source:
   # example record
   - id: Benton2005
