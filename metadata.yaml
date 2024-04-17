@@ -8,11 +8,28 @@ alias: Benton
 
 # Multi parapgraph description / abstract of the dataset
 description: | 
-  The classification given below is a ‘conservative cladis- tic’ scheme based upon the cladograms described in this book.
-  The hierarchical ranking (indenting) of the group names gives an indication of the ranking of taxa in the cladogram. There have been proposals recently to avoid naming the ranks of taxa (e.g. ‘Placodermi’, ‘Dipnoi’), but rank names are used here (e.g. ‘Class Placodermi’, ‘Order Dipnoi’) in order to provide a broad marker to the relative positions of clades within the hierarchical scheme. Further, there is a debate about the use of traditional group names, such as Archosauria or Mammalia, whether they should be used in an inclu- sive sense to indicate the clade that is closest to the orig- inal definition of the name, or in an exclusive sense to refer to the crown-group clade only, that is, the minimal clade defined by the closest common ancestor of all living forms. 
-  The former usage is used here. Fishes, amphibians, reptiles, birds, and mammals are tabulated separately. 
-  All groups named below are monophyletic, except for a very small number of commonly used para- phyleticgroupnames(marked*).Allgroupshaveliving members, unless they are marked †. 
-  Classifications are based on overviews by Forey and Janvier (1993) and Donoghue et al. (2000) for agnathans; Goujet (2001) and Smith and Johanson (2003) for placoderms; de Carvalho (1996) for chondrichthyans; Gardiner et al. (1996) and Johnson and Patterson (1996) for actinopterygians; Zhu and Schultze (2001) for sarcopterygians; Ruta et al. (2003a) and Yates and Warren (2000) for amphibians; Benton (1993b, 1999a), O’Keefe (2002), Rauhut (2003), and Lee et al. (in press) for reptiles; Chiappe (2002b) and Cracraft et al. (in press) for birds; and Luo et al. (2002a) and McKenna and Bell (1997) for mammals.
+  The classification given is a ‘conservative cladistic’ scheme based upon the cladograms described in this book.
+  The hierarchical ranking (indenting) of the group names gives an indication of the ranking of taxa in the cladogram. 
+  There have been proposals recently to avoid naming the ranks of taxa (e.g. ‘Placodermi’, ‘Dipnoi’), 
+  but rank names are used here (e.g. ‘Class Placodermi’, ‘Order Dipnoi’) in order to provide a broad marker 
+  to the relative positions of clades within the hierarchical scheme. 
+  Further, there is a debate about the use of traditional group names, such as Archosauria or Mammalia, 
+  whether they should be used in an inclusive sense to indicate the clade that is closest to the original definition of the name, 
+  or in an exclusive sense to refer to the crown-group clade only, that is, the minimal clade defined by the closest common ancestor of all living forms. 
+  The former usage is used here.
+  All groups named are monophyletic, except for a very small number of commonly used paraphyletic groupnames 
+  which is mentioned in the comments/remarks of such names.
+  Allgroups have living members, unless they are marked †. 
+
+  Classifications are based on overviews by Forey and Janvier (1993) and Donoghue et al. (2000) for agnathans; 
+  Goujet (2001) and Smith and Johanson (2003) for placoderms; 
+  de Carvalho (1996) for chondrichthyans; 
+  Gardiner et al. (1996) and Johnson and Patterson (1996) for actinopterygians; 
+  Zhu and Schultze (2001) for sarcopterygians; 
+  Ruta et al. (2003a) and Yates and Warren (2000) for amphibians; 
+  Benton (1993b, 1999a), O’Keefe (2002), Rauhut (2003), and Lee et al. (in press) for reptiles; 
+  Chiappe (2002b) and Cracraft et al. (in press) for birds; 
+  and Luo et al. (2002a) and McKenna and Bell (1997) for mammals.
 
 # Keywords list. Added in v1.1
 keyword: 
